@@ -1,0 +1,4 @@
+bird:3.5
+cat:5.0
+dog:7.25
+gerbil:1.5

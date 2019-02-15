@@ -1,2 +1,2 @@
 # python-intro
-code I wrote to start with python
+Selection of very short and easy scripts I wrote to start with python
